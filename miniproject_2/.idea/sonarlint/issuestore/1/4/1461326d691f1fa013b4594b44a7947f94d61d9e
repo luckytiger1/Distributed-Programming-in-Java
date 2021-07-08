@@ -1,0 +1,17 @@
+
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÔþÜ±þÿÿÿÿ
+>
+java:S4274 "(Replace this assert with a proper check.(°©Ñö
+=
+java:S4274""(Replace this assert with a proper check.(ñýÉ9
+_
+java:S4201R"IRemove this unnecessary null check; "instanceof" returns false for nulls.(‘®û‹
+_
+java:S4201\"IRemove this unnecessary null check; "instanceof" returns false for nulls.(“ÐÝâ

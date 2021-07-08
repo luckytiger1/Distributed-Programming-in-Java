@@ -1,0 +1,51 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ªìŸ´ûÿÿÿÿ
+]
+java:S2184“"FCast one of the operands of this multiplication operation to a "long".(Úûû
+]
+java:S2184­"FCast one of the operands of this multiplication operation to a "long".(Š¯É‹
+b	java:S101ã"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İ¾œ
+c	java:S101ö"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëüóø
+h	java:S101Š"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶©Îæøÿÿÿÿ
+h	java:S101©"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç¸ü…ûÿÿÿÿ
+h	java:S101Ó"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÚªÜêúÿÿÿÿ
+h	java:S101è"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ü²Ûøÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'com.sun.jna.Platform'.(Âó÷
+s	java:S1167"YRename this field "MPI_COMM_WORLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø„š­üÿÿÿÿ
+p	java:S116;"VRename this field "MPI_INTEGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÌÊòıÿÿÿÿ
+n	java:S116?"TRename this field "MPI_FLOAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÉƒùúÿÿÿÿ
+o	java:S116C"URename this field "MPI_DOUBLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñœÂ÷üÿÿÿÿ
+q	java:S116G"\Rename this field "MPI_STATUS_IGNORE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‰ƒ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¶á—
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù÷´
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êİ±Š
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªà„”
+h	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íë·ìúÿÿÿÿ
+h	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦€Íåùÿÿÿÿ
+h	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‹ÿÿÿÿÿ
+c	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á÷ëË
+h	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¸Òåÿÿÿÿÿ
+h	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¡óÿúÿÿÿÿ
+h	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¿¾Òşÿÿÿÿ
+c	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏŒÑ•
+c	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¡ç
+h	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Àšúÿÿÿÿ
+c	java:S100n"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€²¾
+c	java:S100|"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¤ªå
+i	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Şéıÿÿÿÿ
+i	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Å«¥ûÿÿÿÿ
+i	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÑåÏùÿÿÿÿ
+i	java:S100Ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñäş¥øÿÿÿÿ
+i	java:S100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÊ±üúÿÿÿÿ
+i	java:S100ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¢ô”øÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿“«Ãùÿÿÿÿ
+d	java:S100ª"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÌÄ¹
+i	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£»œøÿÿÿÿ
+d	java:S100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ•Æ˜
+d	java:S100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’àÂİ
+U
+java:S5993›"9Change the visibility of this constructor to "protected".(ìÀÓùÿÿÿÿ
+˜
+java:S1186á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ËÈµ
